@@ -3,3 +3,5 @@ Testando Assinatura de Comm
 Try from Desktop PC
 Trying again
 
+Adicionando Linha Aprtir do VSCode
+
